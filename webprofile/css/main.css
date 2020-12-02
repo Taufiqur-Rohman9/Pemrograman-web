@@ -1,0 +1,20 @@
+*{
+	padding: 6px;
+	margin: 6px;
+}
+.head{
+    display: flex;
+    }
+.head h1{
+    font-size: 30px;
+    flex-grow: 1;
+    padding-top: 25px;
+    }
+.head p{
+    padding-left: 10px;
+    font-size: 22px;
+    color: grey;
+}
+.aca input submit {
+	align:center;
+}
